@@ -1,0 +1,11 @@
+target
+.idea
+.DS_Store
+.gitignore
+*.iml
+.settings
+.project
+.classpath
+.idea
+.ipr
+.iws
