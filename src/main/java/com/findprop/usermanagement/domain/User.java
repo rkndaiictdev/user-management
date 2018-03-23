@@ -1,6 +1,6 @@
-package com.findprop.domain;
+package com.findprop.usermanagement.domain;
 
-import com.findprop.common.annotation.ColumnAnnotation;
+import com.findprop.usermanagement.common.annotation.ColumnAnnotation;
 import org.apache.commons.lang.builder.ToStringBuilder;
 
 public class User {

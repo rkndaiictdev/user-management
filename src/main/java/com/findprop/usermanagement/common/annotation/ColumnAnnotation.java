@@ -1,4 +1,4 @@
-package com.findprop.common.annotation;
+package com.findprop.usermanagement.common.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

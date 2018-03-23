@@ -1,4 +1,4 @@
-package com.findprop.common.annotation;
+package com.findprop.usermanagement.common.annotation;
 
 
 //Annotation for entity
